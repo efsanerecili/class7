@@ -1,0 +1,14 @@
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleApp25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleApp25.AssemblyInfoInputs.cache
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleApp25.AssemblyInfo.cs
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleApp25.csproj.CoreCompileInputs.cache
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\net8.0\ConsoleApp25.exe
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\net8.0\ConsoleApp25.deps.json
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\net8.0\ConsoleApp25.runtimeconfig.json
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\net8.0\ConsoleApp25.dll
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\bin\Debug\net8.0\ConsoleApp25.pdb
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleApp25.dll
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\refint\ConsoleApp25.dll
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleApp25.pdb
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleApp25.genruntimeconfig.cache
+C:\Users\rcili\source\repos\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ref\ConsoleApp25.dll
